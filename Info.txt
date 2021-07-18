@@ -1,0 +1,6 @@
+July 2021
+
+
+If you use Access 32bit use powershell (x86)
+This is how it was used.
+Should also work for SQL server and everything that Powershell can handle.
